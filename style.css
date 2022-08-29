@@ -133,279 +133,199 @@ ul {
    
 }
 .offer{
-    margin-top: 300px;
-    width: 80%;
+    border: 10px solid red;
+    width: 90%;
+    border-radius: 2%;
+    margin-top: 20%;
     display: flex;
-    height: 200px;
-    margin-left: 150px;
-    gap: -20px;
-    
-    
-}
-.offer-div{
-    width: 35%;
-    
-    margin-left: 2%;
-    height: 100%;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-}
-
-.offer-img{
-    width: 100%;
-    height: 100%;
-}
-
-
-.offer-div:hover {
-  background-color:white;
-  background-color: white;
-  opacity:50% ; 
-  color: bisque;
-  
-}
-.offer-text{
-    color: white;
-    background-color: #00173a;
-    margin-top: -130px;
-    margin-left: 50px;
-    font-weight: 700;
-    font-size: 20px;
-}
-.offer-text:hover{
-    color: #00173a;
-}
-.offer-btn{
-    
-   background-color: #00173a;
-   margin-left: 15%;
-   
-   
-}
-.btn1{
-    background-color: #00173a;
-    border-radius: 10%;
-}
-.btn11{
-    background-color: #00173a;
-}
-.sell{
-    width: 80%;
-    margin-left: 10%;
-    
-    height: 350px;
-    display: flex;
-    gap: 1%;
-}
-.sell-div{
-    width: 23%;
-    
-    margin-left: 20px;
-}
-.sell-img{
-    width: 100%;
-    height: 80%;
-}
-.price{
- 
-    margin-left: 40%;
-    margin-top: -10px;
-}
-.price-text{
-    color: #00173a;
-    font-weight: 800;
-    margin-left: -10px;
-}
-.sell-div:hover{
-   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; 
-}
-.price-price{
-    color: #00173a;
-    font-weight: 800;
-    margin-top: -10px;
-}
-.button{
-    background-color: #00173a;
-    color: white;
-    margin-top: -10px;
-    margin-left: -12px;
-}
-.sell-img1{
-    width: 100%;
-    height: 100%;
-    background-color: whitesmoke;
-}
-.best{
-    margin-top: -350px;
-}
-
-.organic{
-    font-weight: 600;
-    margin-top: -10px;
-}
-.featured{
-    width: 80%;
-    margin-left: 150px;
-    
-    display: flex;
-    margin-top: 30px;
-    background-color: #f5f6fb;
-}
-hr{
-    width: 250px;
-    color: #00173a;
-    height: 2px;
-    
-    background-color: #00173a;
-    margin-top: 40px;
-    margin-left: 60px;
-    
-}
-.featured-products{
-    color: #00173a;
-    font-size: 50px;
-    font-weight: 500;
-    margin-left: 10%;
-}
-.featured-div{
-    background-image: url("./assests/ground.png");
-    width: 100%;
-     
-}
-.featured-div2{
-    width: 80%;
-   
-    margin-left: 150px;
-    display: flex;
-    height: 300px;
+    margin-left: 0px;
     gap: 10px;
+    height: 250px;
 }
-.feat-div{
-    width: 24%;
+.offer-div1{
+    border: 2px solid green;
+    width: 20%;
     height: 100%;
+    margin-left: 20px;
+    background-color: #00173a;
+    
    
-    margin-left: 1%;
-    background-color: aliceblue;
-    
 }
-.feat-div:hover{
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+.offer-div-back{
+    margin-left: 10px;
+    width: 25%;
+    height: 110%;
+    background-image: url("./assests/back.png");
 }
-.feature-img{
-    width: 17%;
-    height: 90%;
-    
-
-
+.offer-div2{
+     border: 2px solid green;
+    width: 20%;
+    height: 100%;
 }
-.button1{
+.offer-div2{
+     border: 2px solid green;
+    width: 20%;
+    height: 100%;
+}
+.offer-div3{
+     border: 2px solid green;
+    width: 20%;
+   height: 100%;
+}
+.width-img{
+width: 100%;
+height: 100%;
+}
+.offer-div1-text{
+    text-align: center;
+    margin-top: -140px;
+    color: rgb(188, 184, 184);
+    font-size: 20px;
+    font-weight: 400;
+}
+.btn1-offer{
     background-color: #00173a;
     color: white;
-    margin-top: -20px;
-    margin-left: -19px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    margin-left: 90px;
 }
-.offer-2{
-    width: 100%;
-    
-    height: 400px;
-    margin-top: 40px;
+.best-selling{
+    width: 80%;
+    border: 2px solid green;
+    margin-top: 50px;
+    margin-left: 150px;
+    height: 250px;
     display: flex;
+    gap: -300px;
 
 }
-.offer-3-div{
-    
-    width: 50%;
-    background-image: url("./assests/back1.png");
+.best-div{
+    width: 24%;
+    border: 2px solid red;
+    margin-left: 30px;
+    height: 250px;
 }
-.offer-2-div{
-    
-    width: 50%;
-    background-image: url("./assests/img4.png");
+.no-price{
+    width: 100%;
+    height: 100%;
+}
+.best-sell-btn{
     background-color: #00173a;
-    opacity: 100%;
-    
+    color: white;
+    margin-top: -10px;
+    text-align: center;
+    margin-left: 90px;
 }
-.offer-2-offer{
-    font-size: 30px;
+.best-sell-img{
+    margin-left: 30px;
+}
+.loria{
+    color: #00173a;
+    font-weight: 800;
+    margin-top: -10px;
     
     text-align: center;
-    margin-top: 180px;
-    font-weight: 900;
-    
-    color: rgb(251, 252, 250);
-    opacity: 200%;
 }
-.order{
-    background-color: #00173a;
-    margin-left: 350px;
-    color: aliceblue;
-}
-.new-products{
-    width: 90%;
-    margin-left: 150px;
-    
-    height: 300px;
+.featured{
     display: flex;
-
-}
-.new-div{
-    width: 25%;
-    
-}
-.backj{
     width: 100%;
-    height: 120%;
-}
-.shop-category{
-    margin-top: 20px;
-    width: 80%;
-    margin-left: 160px;
-    border: 2px solid red;
-    height: 300px;
-    display: flex;
-    background-color: #f5f6fb;
-    gap:20px;
-}
-.shop-div1{
-    width: 100%;
-    margin-left: 0px;
-    display: flex;
-   
-   
-    margin-top: 30px;
-    background-color: white;
-    background-image: url("./assests/bbb.png");
+    margin-top: 40px;
 }
 .hr{
-    margin-left: 100px;
-    margin-top: 40px;
+    background-color: #00173a;
+    
+    height: 5px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 130px;
+}
+.featured-para{
+    color: #00173a;
+    font-size: 50px;
+    margin-left: 200px;
+}
+.offer-mid{
+    border: 2px solid red;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    margin-top: 30px;
+    background-color: #00040a;
+  
+}
+.offer-mid-div{
+    width: 50%;
+    border: 2px solid green;
 
 }
-.featured-product{
-     color: #00173a;
-    font-size: 50px;
-    font-weight: 500;
-    margin-left: 10%;
+.mid{
+    width: 100%;
+    height: 100%;
+}
+.mid-div{
+    color: red;
+    margin-top: -200px;
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.mid-btn{
+    color: white;
+    background-color: #00173a;
+    font-size: 15px;
+}
+
+.select{
+    margin-top: 30px;
+    width: 90%;
+   
+    height: 150px;
+    margin-left: 150px;
+    display: flex;
+    gap: 10px;
+}
+.select-div{
+    width: 33%;
+    background-image: url("./assests/bbb.png");
+}
+.select-div1{
+    width: 33%;
+    
+}
+
+.select-para{
+    color: #00173a;
+    font-size: 30px;
+    font-weight: 700;
     margin-top: 50px;
 }
-.sell-button{
+.shop{
+    background-color:#f5f6fb ;
+    height: 500px;
+}
+.shop-div-mid{
+    border: 2px solid red;
+    width: 90%;
+    height: 60%;
+    display: flex;
+    margin-left: 150px;
+}
+.shop-mid-div-3{
+    border: 2px solid blue;
+    width: 20%;
+}
+.shop-btn{
     background-color: #00173a;
     color: white;
-    margin-top: 40%;
+}
+.shop-mid-div7{
+    margin-top: 90px;
     margin-left: 80px;
 }
-.sell-img{
-    height: 100%;
-    width: 60%;
-    margin-left: 40px;
-    gap: 10px;
-    background-color: white;
+.shop-mid-div-9{
+    width: 33%;
+    border:2px solid #00040a;
+    background-image: url("./assests/bbb.png");
+    height: 120%;
 }
-.shop-div{
-    width: 25%;
-}
-
-
-
 
 

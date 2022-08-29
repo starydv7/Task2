@@ -12,7 +12,11 @@ body{
     color: white;
 }
 .call{
-    margin-left: 250px;
+    margin-left: -620px;
+}
+.phone{
+    background-color: #f5f6fb;
+    margin-left: 240px;
 }
 .social{
     margin-left: -200px;
@@ -133,7 +137,7 @@ ul {
    
 }
 .offer{
-    border: 10px solid red;
+   
     width: 90%;
     border-radius: 2%;
     margin-top: 20%;
@@ -143,7 +147,7 @@ ul {
     height: 250px;
 }
 .offer-div1{
-    border: 2px solid green;
+    
     width: 20%;
     height: 100%;
     margin-left: 20px;
@@ -158,17 +162,17 @@ ul {
     background-image: url("./assests/back.png");
 }
 .offer-div2{
-     border: 2px solid green;
+    
     width: 20%;
     height: 100%;
 }
 .offer-div2{
-     border: 2px solid green;
+     
     width: 20%;
     height: 100%;
 }
 .offer-div3{
-     border: 2px solid green;
+     
     width: 20%;
    height: 100%;
 }
@@ -190,7 +194,7 @@ height: 100%;
 }
 .best-selling{
     width: 80%;
-    border: 2px solid green;
+    
     margin-top: 50px;
     margin-left: 150px;
     height: 250px;
@@ -200,7 +204,7 @@ height: 100%;
 }
 .best-div{
     width: 24%;
-    border: 2px solid red;
+   
     margin-left: 30px;
     height: 250px;
 }
@@ -244,7 +248,7 @@ height: 100%;
     margin-left: 200px;
 }
 .offer-mid{
-    border: 2px solid red;
+   
     width: 100%;
     height: 350px;
     display: flex;
@@ -254,7 +258,7 @@ height: 100%;
 }
 .offer-mid-div{
     width: 50%;
-    border: 2px solid green;
+    
 
 }
 .mid{
@@ -303,14 +307,14 @@ height: 100%;
     height: 500px;
 }
 .shop-div-mid{
-    border: 2px solid red;
+   
     width: 90%;
     height: 60%;
     display: flex;
     margin-left: 150px;
 }
 .shop-mid-div-3{
-    border: 2px solid blue;
+    
     width: 20%;
 }
 .shop-btn{
@@ -323,9 +327,96 @@ height: 100%;
 }
 .shop-mid-div-9{
     width: 33%;
-    border:2px solid #00040a;
+ 
     background-image: url("./assests/bbb.png");
     height: 120%;
 }
+.testimonial-para{
+    color: #00173a;
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 200px;
+    margin-top: -20px;
+}
+.hr1{
+    background-color: #00173a;
+    height: 5px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+.testimonial{
+    width: 90%;
+   
+    height: 350px;
+    display: flex;
+}
+.test-div{
+    width: 25%;
+    height: 100%;
+   
+}
+.test-div1{
+    width: 25%;
+    
+}
+.testimonial-text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.test-div-di{
+    height: 60%;
+    background-color: #dd9a05;
+    margin-top: 130px;
+}
+.text-img{
+    border-radius: 50%;
+    height: 20%;
+    width: 20%;
+    margin-left: 140px;
+}
+.test-text{
+    text-align: center;
+    margin-top: 10px;
+}
+.footer{
+    width: 100%;
+    height: 400px;
+    
+    margin-top: 90px;
+    background-color: #00173a;
+    display: flex;
+}
+.footer-div{
+    
+    width: 34%;
+    height: 100%;
+}
+.footer-logo{
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.footer-text{
+    color: white;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.footer-text2{
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 30px;
+}
 
 
+.footer-main{
+    color: white;
+    margin-left: 220px;
+    margin-top: 20px;
+}
+.footer-main1{
+     color: white;
+    margin-left: 150px;
+    margin-top: 20px;
+}
